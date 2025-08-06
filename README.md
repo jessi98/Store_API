@@ -2,7 +2,7 @@
 
 ## 💬 Minha Experiência
 
-Este projeto foi desenvolvido durante um bootcamp como meu **primeiro contato com FastAPI e TDD**. Achei o tema bem desafiador no início, especialmente por envolver testes automatizados — algo novo pra mim.
+Este projeto foi desenvolvido durante o bootcamp BackEnd com Pytho da DIO como meu **primeiro contato com FastAPI e TDD**. Achei o tema bem desafiador no início, especialmente por envolver testes automatizados — algo novo pra mim.
 
 Apesar disso, consegui absorver os conceitos principais de **Test Driven Development** e entendi melhor como construir uma API testável e estruturada. Foi um aprendizado valioso!
 
